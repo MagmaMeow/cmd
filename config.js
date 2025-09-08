@@ -38,10 +38,11 @@ export default {
     },
     {
       type: "WATCHING",
-      text: "over the server",
+      text: "Over the server",
     },
   ],
   
   activityRotationInterval: 30000, 
 
 };
+
